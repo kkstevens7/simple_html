@@ -1,12 +1,16 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Thank You for filling out the Bug Report Form.  This information will help
+  us improve.
 title: BUG
 labels: 'Area: Backend, Area: Frontend, Documentation, Good first issue, Help Needed,
   PBI Removal, Question, Type: Bug, Type: DevOps, Type: Feature'
 assignees: ''
 
 ---
+
+**How do we Contact you in case we need more information?**
+Please share your email address 
 
 **Describe the bug**
 A clear and concise description of what the bug is.
